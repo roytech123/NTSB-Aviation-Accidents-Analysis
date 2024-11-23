@@ -144,7 +144,6 @@ reducing risks in high-risk areas.
 ---
 Access the tableau dashboard using this [Tableau Link](https://public.tableau.com/views/NTSBAviationAccidentsAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-
 See the full analysis in the [jupyter notebook](./Aviation_Accidents_Analysis.ipynb) or review this [Presentation](./presentation.pdf).
 
 For additional info, contact Roy Njuguna at roynjuguna222@gmail.com
