@@ -30,7 +30,7 @@ decision-making process for purchasing aircraft. This will
 support the new aviation division in making informed and
 strategic choices as they enter the market.
 
-## **Data**
+## **Data and Methods**
 ---
 ● Data Source: The analysis utilized the Aviation Accident
 Database & Synopses, covering aviation incidents up to 2023.
@@ -43,8 +43,7 @@ fatalities to assess accident trends and risks.
 visualization techniques were applied to identify patterns and
 inform risk assessment for aircraft selection.
 
-## **Methods**
----
+
 
 ## **Results**
 ---
